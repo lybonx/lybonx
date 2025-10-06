@@ -42,7 +42,7 @@ My goal is to transform complex medical data into meaningful insights that contr
 
 ## 📫 Contact
 📧 **Email:** [thgus0101@gachon.ac.kr]  
-💼 **LinkedIn:** [linkedin.com/in/sohyeon](www.linkedin.com/in/sohyeon-sim-ba0469386)  
+💼 **LinkedIn:** [linkedin.com/in/sohyeon-sim-ba0469386](www.linkedin.com/in/sohyeon-sim-ba0469386)  
 🐙 **GitHub:** [github.com/lybonx](https://github.com/lybonx)
 
 ---
